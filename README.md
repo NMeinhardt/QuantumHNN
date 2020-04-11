@@ -5,4 +5,5 @@ Source code used to obtain the results in the thesis `Quantum Hopfield Neural Ne
 The code used to simulate the three models is provided in the according folders.
 
 
+
 Zenodo DOI: https://zenodo.org/badge/latestdoi/214661631
